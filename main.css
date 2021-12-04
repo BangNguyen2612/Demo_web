@@ -1,0 +1,18 @@
+span{
+	display: inline-block;
+	margin: 8px;
+	box-shadow: 1 px 2px 2px grey;
+}
+body{
+	background-color: white;
+	padding: 30px;
+	max-width: 350px;
+	margin: auto;
+}
+.magazinel{
+	background-color: teal;
+	color:white
+	font-family:Verdana;
+	font-weight:900;
+	text-transform:uppercase;
+}

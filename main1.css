@@ -1,0 +1,19 @@
+body{
+	background-color:blue;
+	padding: 30px;
+	max-width: 350px;
+	margin: auto;
+}
+span{
+	display: inline-block;
+	box-shadow: 1px 2px 2px grey;
+	margin: 8px;
+}
+.baitap{
+	color:azure;
+	font-size: 20px;
+	font-family: monospace;
+	text-transform: uppercase;
+	transform: rotate(45deg);
+
+}
